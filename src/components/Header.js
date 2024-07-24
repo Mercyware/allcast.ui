@@ -39,10 +39,6 @@ function Header() {
     <HeaderContainer>
       <Logo>ALLCAST</Logo>
       <Nav>
-        <NavItem href="#">Home</NavItem>
-        <NavItem href="#">Buy Domain</NavItem>
-        <NavItem href="#">Sell Domain</NavItem>
-        <NavItem href="#">Contact Us</NavItem>
       </Nav>
       <GetStartedButton>GET STARTED</GetStartedButton>
     </HeaderContainer>
